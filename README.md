@@ -65,5 +65,6 @@
 - Minio
 - Knative
 - Argo Workflow
-- Akka Clustering
 - Argo Events
+- YugabyteDB
+- Akka Clustering
