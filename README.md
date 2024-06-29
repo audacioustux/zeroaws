@@ -6,7 +6,7 @@
 
 ![Ref Arch - Draft](misc/draft-reference-arch.svg)
 
-### Tools, Technologies && Topics covered
+### Tools, Technologies and Topics covered
 
 - Pulumi
 - GitOps
