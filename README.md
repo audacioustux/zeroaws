@@ -65,4 +65,5 @@
 - Minio
 - Knative
 - Argo Workflow
+- Akka Clustering
 - Argo Events
