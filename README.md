@@ -60,6 +60,8 @@
   - Vertical Pod Autoscaler
   - Horizontal Pod Autoscaler
   - Keda
+  - Velero
+  - tetragon
 - Dragonfly
 - Cloudnative-PG
 - Minio
