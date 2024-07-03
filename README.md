@@ -37,6 +37,7 @@
   - AWS Backup
   - ALB
   - NLB
+  - Cloudfront
 - Kubernetes
   - CoreDNS
   - Kyverno
@@ -61,7 +62,7 @@
   - Horizontal Pod Autoscaler
   - Keda
   - Velero
-  - tetragon
+  - Tetragon
 - Dragonfly
 - Cloudnative-PG
 - Minio
