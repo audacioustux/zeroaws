@@ -38,6 +38,7 @@
   - ALB
   - NLB
   - Cloudfront
+  - ECR
 - Kubernetes
   - CoreDNS
   - Kyverno
