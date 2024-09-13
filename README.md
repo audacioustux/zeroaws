@@ -39,6 +39,7 @@
   - NLB
   - Cloudfront
   - ECR
+    - Pull through cache
 - Kubernetes
   - CoreDNS
   - Kyverno
@@ -59,6 +60,8 @@
   - Loki
   - Promtail
   - Karpenter
+    - Topology Spread
+    - HA Stability
   - Vertical Pod Autoscaler
   - Horizontal Pod Autoscaler
   - Keda
@@ -71,4 +74,5 @@
 - Argo Workflow
 - Argo Events
 - YugabyteDB
+- ScyllaDB
 - Akka Clustering
